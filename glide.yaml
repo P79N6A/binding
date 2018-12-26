@@ -1,4 +1,4 @@
-package: github.com/ppltools/binding
+package: git.xiaojukeji.com/nuwa/binding
 import:
 - package: github.com/golang/protobuf
   version: ^1.0.0

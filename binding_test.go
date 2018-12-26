@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ppltools/binding/example"
+	"git.xiaojukeji.com/nuwa/binding/example"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/stretchr/testify/assert"

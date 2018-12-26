@@ -1,8 +1,8 @@
-hash: c92de60c9fe2489dd9c7255ed45e9fc7f6740079c839b7098cfcbb413dd0fa24
-updated: 2018-04-13T15:28:23.827037431+08:00
+hash: 8fe7b6cbd091620260a0f34f98e7661ed772cd5b527601c4e7c202bc1f1adc6c
+updated: 2018-12-26T20:13:33.098053563+08:00
 imports:
 - name: github.com/golang/protobuf
-  version: 925541529c1fa6821df4e44ce2723319eb2be768
+  version: aa810b61a9c79d51363740d207bb46cf8e620ed5
   subpackages:
   - proto
 - name: github.com/ugorji/go
@@ -13,14 +13,14 @@ imports:
   version: 5f57d2222ad794d0dffb07e664ea05e2ee07d60c
 testImports:
 - name: github.com/davecgh/go-spew
-  version: 6d212800a42e8ab5c146b8ace3490ee17e5225f9
+  version: 8991bc29aa16c548c550c7ff78260e27b9ab7c73
   subpackages:
   - spew
 - name: github.com/pmezard/go-difflib
-  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  version: 792786c7400a136282c1664665ae0a8db921c6c2
   subpackages:
   - difflib
 - name: github.com/stretchr/testify
-  version: 12b6f73e6084dad08a7c6e575284b177ecafbc71
+  version: f35b8ab0b5a2cef36673838d662e249dd9c94686
   subpackages:
   - assert
